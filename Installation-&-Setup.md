@@ -1,5 +1,3 @@
-# Installation & Setup Guide
-
 The following sections detail the process for setting up Atlas and its dependencies.
 
 ## OHDSI Web API
