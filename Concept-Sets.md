@@ -2,7 +2,7 @@ Atlas provides the ability to create concept sets: these are lists of concepts f
 
 ## Browsing concept sets
 
-Selecting the Concept Sets menu option in Atlas will show you all of the concept sets available in the system. This table has filtering and sorting capabilities similar to the vocabulary results table. From this screen, you can click on an existing concept set to explore its definition or you can click the "Add Concept Set" button to start developing a new one.
+Selecting the Concept Sets menu option in Atlas will show you all of the concept sets available in the system. This table has filtering and sorting capabilities similar to the [vocabulary results table](https://github.com/OHDSI/Atlas/wiki/Vocabulary#results). From this screen, you can click on an existing concept set to explore its definition or you can click the "Add Concept Set" button to start developing a new one.
 
 ## Creating concept sets
 
@@ -30,7 +30,7 @@ The included source codes tab is used to show all of the non-standard concepts t
 
 ## Export
 
-The export tab is used to export the concept set expression and/or the concept id list. This is useful if we need to share a concept set definition with others outside of our organization. They can then use this information to import this definition using the import functionality under the vocabulary area. 
+The export tab is used to export the concept set expression and/or the concept id list. This is useful if we need to share a concept set definition with others outside of our organization. They can then use this information to import this definition using the [import functionality under the vocabulary area](https://github.com/OHDSI/Atlas/wiki/Vocabulary#import). 
 
 ## Saving
 
