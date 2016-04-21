@@ -1,6 +1,7 @@
 ## Atlas
 
 * [Home](https://github.com/OHDSI/Atlas/wiki)
+* [Installation & Setup](https://github.com/OHDSI/Atlas/wiki/Installation-&-Setup)
 
 ### User Guide
 
