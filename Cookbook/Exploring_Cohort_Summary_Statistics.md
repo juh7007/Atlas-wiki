@@ -18,4 +18,4 @@ You have defined and generated a cohort within Atlas and would like to know the 
 This recipe demonstrated how to visualize basic demographic statistics of a generated cohort. There are a number of other reports available that allow you to visualize the other categories of statistics (e.g. conditions, procedures, drug exposures) of a generated cohort.
 
 ### See Also
-[Viewing Summaries and Characterizations of the Clinical Data Warehouse](/cumc-dbmi/Atlas-wiki/Cookbook/Viewing_Summary_Characterization_Reports)
+[Viewing Summaries and Characterizations of the Clinical Data Warehouse](/Cookbook/Viewing_Summary_Characterization_Reports.md)
