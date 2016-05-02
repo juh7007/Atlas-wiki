@@ -32,4 +32,4 @@ You want to define cohort of patients who all have a diagnosis of essential hype
 Defining and generating a cohort is the first step toward more advanced analyses within Atlas. You can specify more complex filters depending on your needs. You may also import concept sets and cohort definitions that have been defined by others. Similarly, you may export these assets and share them with colleagues.
 
 ### See Also
-[Exploring Cohort Summary Statistics](/Cookbook/Exploring_Cohort_Summary_Statistics)
+[Exploring Cohort Summary Statistics](/Cookbook/Exploring_Cohort_Summary_Statistics.md)
