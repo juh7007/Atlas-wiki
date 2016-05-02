@@ -62,10 +62,10 @@ You would like to define cohort of patients who have all undergone a prostatecto
 
 1. Choose Generation Status tab. Confirm that selected Analysis Types [PERSON, VISITS, CONDITION, PROCEDURE, DRUG] are checked green
 
-1. Click Cohort reporting in left menu (See the tutorial on [Exploring Cohort Summary Statistics](/cumc-dbmi/Atlas-wiki/Cookbook/Exploring_Cohort_Summary_Statistics) to learn about how to explore this cohort's characteristics)
+1. Click Cohort reporting in left menu (See the tutorial on [Exploring Cohort Summary Statistics](/Cookbook/Exploring_Cohort_Summary_Statistics.md) to learn about how to explore this cohort's characteristics)
 
 ### Discussion
 Defining and generating a cohort is the first step toward more advanced analyses within Atlas. You can specify more complex filters depending on your needs. You may also import concept sets and cohort definitions that have been defined by others. Similarly, you may export these assets and share them with colleagues.
 
 ### See Also
-[Exploring Cohort Summary Statistics](/cumc-dbmi/Atlas-wiki/Cookbook/Exploring_Cohort_Summary_Statistics)
+[Exploring Cohort Summary Statistics](/Cookbook/Exploring_Cohort_Summary_Statistics.md)
